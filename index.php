@@ -2,8 +2,8 @@
 <html lang="zh">
 
 <head>
-    <title>拍扁小宝</title>
-    <meta itemprop="name" content="拍扁小宝" />
+    <title>拍扁狗比学校</title>
+    <meta itemprop="name" content="拍扁狗比学校" />
     <meta itemprop="description" content="新概念音游" />
     <meta charset="utf-8" />
     <meta name="viewport" content="initial-scale=1, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0, width=device-width,target-densitydpi=device-dpi" />
@@ -73,7 +73,7 @@
                         <div class="input-group-prepend">
                             <span class="input-group-text" id="basic-addon1">标题</span>
                         </div>
-                        <input type="text" id="title" class="form-control" placeholder="拍扁小宝">
+                        <input type="text" id="title" class="form-control" placeholder="拍扁狗比学校">
                     </div>
                     <div class="input-group mb-3">
                         <div class="input-group-prepend">
