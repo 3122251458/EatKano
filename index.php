@@ -32,7 +32,7 @@
             <button type="button" class="btn btn-secondary btn-lg" id="replay" onclick="replayBtn()">重来</button>
         <button type="button" class="btn btn-secondary btn-lg" onclick="window.location.reload()">主页</button>
 			<button type="button" class="btn btn-secondary btn-lg" onclick="goRank();">排行</button>
-            <button type="button" class="btn btn-secondary btn-lg" onclick="window.location.href='https://qm.qq.com/cgi-bin/qm/qr?k=2BxIarndIl85XdYJBxaq77ME7j58scka&noverify=0'">联系作者</button>
+            <button type="button" class="btn btn-secondary btn-lg" onclick="window.location.href='http://bbs1.people.com.cn/img_new/Y0/10/A6/C8/25/1662431709221.jpeg'">联系作者</button>
         </div>
     </div>
     </div>
